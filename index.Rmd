@@ -1,5 +1,5 @@
 ---
-title: '[Python for Data Science](https://github.com/MingChen0919/machine-learning-with-python.git)'
+title: '[Python for Data Science](https://github.com/MingChen0919/python-for-data-science)'
 output:
     html_document:
       highlight: pygments
