@@ -55,7 +55,7 @@ file_tree = function(dir = '.'){
   # exclude .ipynb_checkpoints folder
   # ipynb_checkpoints = grep(pattern = 'ipynb_checkpoints', x = dirs)
   # dirs = dirs[-ipynb_checkpoints]
-  github_repo_url = 'https://github.com/MingChen0919/learning-apache-spark/blob/master/'
+  github_repo_url = 'https://github.com/MingChen0919/python-for-data-science/blob/master/'
   tags$ul(
     {
       if (length(files) > 0) {
